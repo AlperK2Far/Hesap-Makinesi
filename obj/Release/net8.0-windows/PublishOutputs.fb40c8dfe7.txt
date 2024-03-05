@@ -1,0 +1,5 @@
+C:\Users\karag\OneDrive\Masaüstü\HesapMakinesi.exe
+C:\Users\karag\OneDrive\Masaüstü\HesapMakinesi.dll
+C:\Users\karag\OneDrive\Masaüstü\HesapMakinesi.deps.json
+C:\Users\karag\OneDrive\Masaüstü\HesapMakinesi.runtimeconfig.json
+C:\Users\karag\OneDrive\Masaüstü\HesapMakinesi.pdb
